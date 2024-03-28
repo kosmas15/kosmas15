@@ -1,6 +1,6 @@
 - Hi, I’m Kosmas Lazaridis
 - I’m interested in Data Science and Machine Learning
-- I’m currently a master student in DAMA in EAP.
+- I’m currently a master's student in DAMA in EAP.
 - I also have a PhD in Radioastronomy and I teach physics.  
 
 
