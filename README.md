@@ -1,7 +1,7 @@
 - Hi, I’m Kosmas Lazaridis
-- I’m interested in Data Science and Machine Learning
-- I’m currently a master's student in DAMA in EAP.
-- I also have a PhD in Radioastronomy and I teach physics. 
+- I’m a Data Scientist and the Programme Leader of the Computing School in Mediterranean College of Thessaloniki. 
+- I have a master in Data Science and Machine Learning
+- I also have a PhD in Radioastronomy and I am a lecturer of computer science courses
 
 
 <!---
